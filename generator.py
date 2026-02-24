@@ -190,4 +190,4 @@ async def on_ready():
     await tree.sync()
     print(f"Logged in as {client.user}")
 
-client.run(config["token"])
+client.run(config["MTQ3NTQ3NzkxNjEzNjYzNjU0Ng.GxAIhb.KcQY1aWQqsxT-QJv6iGa798_Xna7jp8cVnKEXs"])
